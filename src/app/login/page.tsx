@@ -46,7 +46,7 @@ export default function LoginPage() {
           </form> */}
 
           {/* Divider */}
-          <div className="relative">
+          {/* <div className="relative">
             <div className="absolute inset-0 flex items-center">
               <div className="w-full border-t border-gray-300"></div>
             </div>
@@ -55,15 +55,15 @@ export default function LoginPage() {
                 หรือเพิ่ม provider อื่นๆ
               </span>
             </div>
-          </div>
+          </div> */}
 
           {/* Instructions */}
-          <div className="rounded-lg bg-blue-50 p-4">
+          {/* <div className="rounded-lg bg-blue-50 p-4">
             <p className="text-xs text-blue-800">
               <strong>💡 สำหรับการใช้งาน:</strong> กรุณาตั้งค่า environment
               variables ใน .env.local ก่อนใช้งาน
             </p>
-          </div>
+          </div> */}
         </div>
 
         {/* Additional Provider Info */}
