@@ -2,6 +2,10 @@
 
 เกม OX (Tic-tac-toe) แบบ Web Application ที่มีระบบ OAuth 2.0 Authentication และการเก็บคะแนนผ่าน Supabase
 
+## 🌐 Live Demo
+
+🎮 **เล่นเกมได้ที่นี่**: [https://aztek-ox.vercel.app/](https://aztek-ox.vercel.app/)
+
 ## ✨ คุณสมบัติหลัก
 
 ### 🔐 การเข้าสู่ระบบ

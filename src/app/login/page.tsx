@@ -8,7 +8,7 @@ export default function LoginPage() {
         <div className="text-center">
           <h2 className="text-3xl font-bold text-gray-900">เข้าสู่ระบบ</h2>
           <p className="mt-2 text-sm text-gray-600">
-            เลือกวิธีการเข้าสู่ระบบที่คุณต้องการ
+            กรุณาเข้าสู่ระบบ
           </p>
         </div>
 
@@ -67,10 +67,10 @@ export default function LoginPage() {
         </div>
 
         {/* Additional Provider Info */}
-        <div className="mt-6 text-center text-xs text-gray-500">
+        {/* <div className="mt-6 text-center text-xs text-gray-500">
           <p>รองรับ OAuth 2.0 providers อื่นๆ เช่น</p>
           <p className="mt-1 font-medium">Auth0, Okta, Facebook, Twitter และอื่นๆ</p>
-        </div>
+        </div> */}
       </div>
     </div>
   );
